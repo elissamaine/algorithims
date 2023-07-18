@@ -10,3 +10,7 @@ var sumArray = function(arr) {
 
   return result;
 };
+
+array = [1,3,5,6,7,7,7]
+
+console.log(sumArray(array));
