@@ -2,4 +2,15 @@
 // Modify the original array rather than returning a new one
 // There is no need to return from this function
 
-const leftRotation = (arr, positions) => {};
+const leftRotation = (arr, positions) => {
+
+
+
+
+
+
+
+
+};
+
+
