@@ -7,6 +7,7 @@ var vowelCount = function(str) {
   for (var i = 0; i < str.length; i++) {
     var letter = str[i].toLowerCase();
 
+    //The indexOf() method of Array instances returns the first index at which a given element can be found in the array, or -1 if it is not present.
     if (vowels.indexOf(letter) !== -1) {
       result += 1;
     }
